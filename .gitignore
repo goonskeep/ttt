@@ -1,3 +1,4 @@
 
 *.lnk
-garrysmod/addons/ultimatelogs/lua/ultimatelogs/configuration.lua
+garrysmod/cfg
+garrysmod/addons
